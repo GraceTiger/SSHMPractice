@@ -95,4 +95,8 @@ public class UserTest {
         userDao.update(user);
     }
 
+    @org.junit.Test
+    public void testDelete(){
+        userDao.delete(58);
+    }
 }
