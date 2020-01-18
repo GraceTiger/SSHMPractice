@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a97cbb47-23bb-45eb-9a25-ddd3e9f852f2" name="Default Changelist" comment="" />
+    <list default="true" id="a97cbb47-23bb-45eb-9a25-ddd3e9f852f2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxc/view/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="settings.gitee" />
   </component>
   <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -95,7 +98,8 @@
       <updated>1579260281649</updated>
       <workItem from="1579260282827" duration="3383000" />
       <workItem from="1579316594861" duration="1536000" />
-      <workItem from="1579338322597" duration="3208000" />
+      <workItem from="1579338322597" duration="6720000" />
+      <workItem from="1579353941383" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="Spring02第一次提交">
       <created>1579271688729</created>
@@ -125,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579349937024</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Spring02第二次提交">
+      <created>1579349958606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579349958606</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,18 +152,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="179" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1579272529816" />
-    <state x="552" y="179" key="#Notifications" timestamp="1579260464148">
+    <state x="552" y="179" key="#Notifications" timestamp="1579350585199">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1579260464148" />
+    <state x="552" y="179" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1579350585199" />
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579339118372">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579339118372" />
-    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1579349945343">
+    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1579354653782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579349945343" />
+    <state x="560" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579354653782" />
+    <state x="810" y="420" key="Gitee.ShareDialog" timestamp="1579354410683">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="810" y="420" key="Gitee.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579354410683" />
+    <state x="832" y="411" width="273" height="218" key="Github.ShareDialog" timestamp="1579351868952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="411" width="273" height="218" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579351868952" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579272302923">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -169,18 +188,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579272302923" />
-    <state x="389" y="106" key="SettingsEditor" timestamp="1579339148645">
+    <state x="389" y="106" key="SettingsEditor" timestamp="1579354280941">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="389" y="106" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579339148645" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579272242847">
+    <state x="389" y="106" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579354280941" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579349961080">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579272242847" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579349849204">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579349961080" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579354624214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579349849204" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579354624214" />
+    <state x="650" y="311" key="git4idea.merge.GitPullDialog" timestamp="1579354547501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579354547501" />
     <state x="640" y="203" key="spring file set editor" timestamp="1579272317847">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
