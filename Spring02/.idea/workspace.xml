@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a97cbb47-23bb-45eb-9a25-ddd3e9f852f2" name="Default Changelist" comment="Spring02第四次提交">
+    <list default="true" id="a97cbb47-23bb-45eb-9a25-ddd3e9f852f2" name="Default Changelist" comment="Spring02第五次提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" afterDir="false" />
     </list>
@@ -100,7 +100,7 @@
       <workItem from="1579316594861" duration="1536000" />
       <workItem from="1579338322597" duration="6720000" />
       <workItem from="1579353941383" duration="956000" />
-      <workItem from="1579354904093" duration="1225000" />
+      <workItem from="1579354904093" duration="1398000" />
     </task>
     <task id="LOCAL-00001" summary="Spring02第一次提交">
       <created>1579271688729</created>
@@ -151,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579356584913</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Spring02第五次提交">
+      <created>1579356730664</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1579356730664</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Spring02第五次提交">
+      <created>1579356792761</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579356792761</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,7 +186,8 @@
     <MESSAGE value="Spring02第二次提交" />
     <MESSAGE value="Spring02第三次提交" />
     <MESSAGE value="Spring02第四次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring02第四次提交" />
+    <MESSAGE value="Spring02第五次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring02第五次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Inspections" timestamp="1579272529816">
@@ -187,10 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579339118372" />
-    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1579356730223">
+    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1579356883229">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356730223" />
+    <state x="560" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356883229" />
     <state x="810" y="420" key="Gitee.ShareDialog" timestamp="1579354410683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -219,14 +234,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="389" y="106" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579356435803" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579356741712">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579356794672">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356741712" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579356679995">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356794672" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579356845867">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356679995" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356845867" />
     <state x="650" y="311" key="git4idea.merge.GitPullDialog" timestamp="1579354794137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

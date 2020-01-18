@@ -39,10 +39,6 @@ public class Client {
         as.saveAccount();
 
 
-        //--------BeanFactory----------
-//        Resource resource = new ClassPathResource("bean.xml");
-//        BeanFactory factory = new XmlBeanFactory(resource);
-//        IAccountService as  = (IAccountService)factory.getBean("accountService");
-//        System.out.println(as);
+
     }
 }
