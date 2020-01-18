@@ -38,7 +38,6 @@ public class Client {
         //System.out.println(adao);
         as.saveAccount();
 
-        //aaaaaaaaaaaaaaaaaa
 
     }
 }
