@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a97cbb47-23bb-45eb-9a25-ddd3e9f852f2" name="Default Changelist" comment="Spring02第三次提交">
+    <list default="true" id="a97cbb47-23bb-45eb-9a25-ddd3e9f852f2" name="Default Changelist" comment="Spring02第四次提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" afterDir="false" />
     </list>
@@ -100,7 +100,7 @@
       <workItem from="1579316594861" duration="1536000" />
       <workItem from="1579338322597" duration="6720000" />
       <workItem from="1579353941383" duration="956000" />
-      <workItem from="1579354904093" duration="1062000" />
+      <workItem from="1579354904093" duration="1225000" />
     </task>
     <task id="LOCAL-00001" summary="Spring02第一次提交">
       <created>1579271688729</created>
@@ -144,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579354689891</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Spring02第四次提交">
+      <created>1579356584913</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1579356584913</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +171,8 @@
     <MESSAGE value="Spring02第一次提交" />
     <MESSAGE value="Spring02第二次提交" />
     <MESSAGE value="Spring02第三次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring02第三次提交" />
+    <MESSAGE value="Spring02第四次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring02第四次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Inspections" timestamp="1579272529816">
@@ -215,10 +223,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579349961080" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579356553411">
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579356679995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356553411" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579356679995" />
     <state x="650" y="311" key="git4idea.merge.GitPullDialog" timestamp="1579354794137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
