@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31295e52-e619-4ff8-9494-c67360840db5" name="Default Changelist" comment="">
+    <list default="true" id="31295e52-e619-4ff8-9494-c67360840db5" name="Default Changelist" comment="//Spring02同步测试02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" afterDir="false" />
     </list>
@@ -85,7 +85,8 @@
       <workItem from="1579359602906" duration="144000" />
       <workItem from="1579400156183" duration="69000" />
       <workItem from="1579400629160" duration="17000" />
-      <workItem from="1579401766828" duration="27000" />
+      <workItem from="1579401156780" duration="68000" />
+      <workItem from="1579401475123" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="//Spring02同步测试">
       <created>1579400513344</created>
@@ -101,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579400637014</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="//Spring02同步测试01">
+      <created>1579401166937</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579401166937</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,17 +117,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="//Spring02同步测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="//Spring02同步测试" />
+    <MESSAGE value="//Spring02同步测试01" />
+    <option name="LAST_COMMIT_MESSAGE" value="//Spring02同步测试01" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579359711270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359711270" />
-    <state x="512" y="112" key="CommitChangelistDialog2" timestamp="1579400636389">
+    <state x="781" y="80" key="CommitChangelistDialog2" timestamp="1579401493983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="512" y="112" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579400636389" />
+    <state x="781" y="80" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579401493983" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579359746335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -140,17 +149,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579359781487" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579400638984">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579401168687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579400638984" />
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579401447980">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579401168687" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579401478675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579401447980" />
-    <state x="650" y="311" key="git4idea.merge.GitPullDialog" timestamp="1579401461825">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="650" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579401461825" />
+    <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579401478675" />
   </component>
 </project>
