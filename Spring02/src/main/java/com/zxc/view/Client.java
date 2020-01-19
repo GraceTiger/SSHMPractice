@@ -34,7 +34,6 @@ public class Client {
         IAccountService as  = (IAccountService)ac.getBean("accountService");
         //IAccountDao adao = ac.getBean("accountDao",IAccountDao.class);
 
-
         System.out.println(as);
         //System.out.println(adao);
         as.saveAccount();
