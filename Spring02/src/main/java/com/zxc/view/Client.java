@@ -37,6 +37,6 @@ public class Client {
         System.out.println(as);
         //System.out.println(adao);
         as.saveAccount();
-
+        //Spring02同步测试03
     }
 }
