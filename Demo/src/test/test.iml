@@ -8,5 +8,8 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="main" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.mybatis:mybatis:3.5.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.13-rc-2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: mysql:mysql-connector-java:8.0.18" level="project" />
   </component>
 </module>

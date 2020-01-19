@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31295e52-e619-4ff8-9494-c67360840db5" name="Default Changelist" comment="//Spring02同步测试06">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxc/view/Main.java" afterDir="false" />
+    <list default="true" id="31295e52-e619-4ff8-9494-c67360840db5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxc/factory/ServiceFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_6_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__junit_junit_4_13_rc_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__junit_junit_4_13_rc_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/src/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxc/view/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxc/view/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bean.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zxc/view/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zxc/view/Client.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +109,10 @@
       <workItem from="1579400629160" duration="17000" />
       <workItem from="1579401156780" duration="68000" />
       <workItem from="1579401475123" duration="24000" />
+      <workItem from="1579423277924" duration="14000" />
+      <workItem from="1579440509599" duration="14000" />
+      <workItem from="1579440887783" duration="5000" />
+      <workItem from="1579442096185" duration="2879000" />
     </task>
     <task id="LOCAL-00001" summary="//Spring02同步测试">
       <created>1579400513344</created>
@@ -177,22 +193,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="781" y="80" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579403647178" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579359746335">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579444566103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579359746335" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579359746335">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579444566103" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579444566102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579359746335" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579359746335">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579444566102" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579444566102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579359746335" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579359746335">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579444566102" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579444566102">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579359746335" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579444566102" />
     <state x="440" y="95" key="SettingsEditor" timestamp="1579403402781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

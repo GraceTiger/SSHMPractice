@@ -53,7 +53,7 @@
                 死亡：当对象长时间不用，且没有别的对象引用时，由Java的垃圾回收器回收
      -->
 
-    <bean id="accountService" class="com.zxc.service.impl.AccountServiceImpl"></bean>
+    <bean id="accountService" class="com.zxc.factory.ServiceFactory" factory-method="getAccountService"></bean>
 
 </beans>
 
