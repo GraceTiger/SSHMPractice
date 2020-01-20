@@ -100,6 +100,7 @@
       <workItem from="1579440887783" duration="5000" />
       <workItem from="1579442096185" duration="2941000" />
       <workItem from="1579445383321" duration="14000" />
+      <workItem from="1579445609158" duration="716000" />
     </task>
     <task id="LOCAL-00001" summary="//Spring02同步测试">
       <created>1579400513344</created>
@@ -164,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579445024417</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Bean文件更名">
+      <created>1579445710912</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579445710912</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,17 +185,18 @@
     <MESSAGE value="//Spring02同步测试05" />
     <MESSAGE value="//Spring02同步测试06" />
     <MESSAGE value="添加Bean的静态工厂" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加Bean的静态工厂" />
+    <MESSAGE value="Bean文件更名" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bean文件更名" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579359711270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579359711270" />
-    <state x="781" y="80" key="CommitChangelistDialog2" timestamp="1579445023624">
+    <state x="781" y="80" key="CommitChangelistDialog2" timestamp="1579445710314">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="781" y="80" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579445023624" />
+    <state x="781" y="80" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579445710314" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579445038625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -208,10 +217,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579403402781" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579445028690">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579445728343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579445028690" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579445728343" />
     <state x="752" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579401478675">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
