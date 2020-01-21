@@ -80,14 +80,15 @@
             map  props
         结构相同，标签可以互换
     -->
-    <bean id="accountService" class="com.zxc.service.impl.AccountServiceImpl">
-        <property name="name">
+    <bean id="accountService3" class="com.zxc.service.impl.AccountServiceImpl3">
+        <property name="myStrs">
             <array>
                 <value>aaa</value>
+                <value>bbb</value>
+                <value>ccc</value>
             </array>
         </property>
     </bean>
-
 
 </beans>
 

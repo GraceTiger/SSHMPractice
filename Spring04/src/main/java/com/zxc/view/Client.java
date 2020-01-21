@@ -2,6 +2,7 @@ package com.zxc.view;
 
 import com.zxc.service.IAccountService;
 import com.zxc.service.impl.AccountServiceImpl;
+import com.zxc.service.impl.AccountServiceImpl3;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
@@ -31,7 +32,7 @@ public class Client {
         //1.获取核心容器对象
         ApplicationContext ac = new ClassPathXmlApplicationContext("Bean.xml");
         //2.根据id获取Bean对象
-        IAccountService as = ac.getBean("accountService",AccountServiceImpl.class);
+        IAccountService as = ac.getBean("accountService3", AccountServiceImpl3.class);
 
         as.saveAccount();
         System.out.println(as);
