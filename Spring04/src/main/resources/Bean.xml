@@ -42,13 +42,6 @@
         弊端：
             改变了bean对象的实例化方式，使我们在创建对象时，如果用不到这些数据，也必须提供。
     -->
-<<<<<<< HEAD
-<<<<<<<< HEAD:Spring03/target/classes/Bean.xml
-
-
-========
-=======
->>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99
     <!--
     <bean id="accountService" class="com.zxc.service.impl.AccountServiceImpl">
         <constructor-arg name="name" value="陈平安"></constructor-arg>
@@ -56,10 +49,6 @@
         <constructor-arg name="birthday" ref="now"></constructor-arg>
     </bean>
     -->
-<<<<<<< HEAD
->>>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99:Spring03/src/main/resources/Bean.xml
-=======
->>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99
     <!-- 配置一个日期对象 -->
     <bean id="now" class="java.util.Date"></bean>
 
@@ -77,20 +66,11 @@
         弊端：
             如果有某个成员必须有值，则获取对象是有可能set方法没有执行。
     -->
-<<<<<<< HEAD
-<<<<<<<< HEAD:Spring03/target/classes/Bean.xml
-========
-=======
->>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99
     <bean id="accountService" class="com.zxc.service.impl.AccountServiceImpl">
         <property name="name" value="陆红堤"></property>
         <property name="age" value="18"></property>
         <property name="birthday" ref="now"></property>
     </bean>
-<<<<<<< HEAD
->>>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99:Spring03/src/main/resources/Bean.xml
-=======
->>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99
 
 
     <!-- 复杂类型的注入/集合类型的注入
@@ -100,20 +80,15 @@
             map  props
         结构相同，标签可以互换
     -->
-<<<<<<< HEAD
-<<<<<<<< HEAD:Spring03/target/classes/Bean.xml
-========
-    <bean id="accountService" class="com.zxc.service.impl.AccountServiceImpl">
-        <property name="name">
+    <bean id="accountService3" class="com.zxc.service.impl.AccountServiceImpl3">
+        <property name="myStrs">
             <array>
                 <value>aaa</value>
+                <value>bbb</value>
+                <value>ccc</value>
             </array>
         </property>
     </bean>
->>>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99:Spring03/src/main/resources/Bean.xml
-=======
->>>>>>> 771f9cd6f6600575f7f8e87f3c25cafe75ec5b99
-
 
 </beans>
 
