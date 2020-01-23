@@ -76,7 +76,7 @@ import javax.annotation.Resource;
 @Service("accountService")
 public class AccountServiceImpl implements IAccountService {
 
-    @Resource(name = "accountDao2")
+    @Resource(name = "accountDao")
     private IAccountDao accountDao;
 
 
@@ -91,5 +91,6 @@ public class AccountServiceImpl implements IAccountService {
 
     public void  saveAccount(){
         accountDao.saveAccount();
+
     }
 }

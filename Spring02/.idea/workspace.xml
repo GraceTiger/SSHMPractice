@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31295e52-e619-4ff8-9494-c67360840db5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring04/.idea/Spring04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring05/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/view/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/view/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/view/Client.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +109,7 @@
       <workItem from="1579445609158" duration="716000" />
       <workItem from="1579497038218" duration="18000" />
       <workItem from="1579702841127" duration="103000" />
+      <workItem from="1579757745123" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="//Spring02同步测试">
       <created>1579400513344</created>

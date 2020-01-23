@@ -19,6 +19,7 @@
         </plugins>
     </build>
 
+
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.example</groupId>
     <artifactId>Spring05</artifactId>
@@ -45,5 +46,6 @@
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.18</version>
         </dependency>
+
     </dependencies>
 </project>

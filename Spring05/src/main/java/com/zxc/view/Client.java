@@ -2,6 +2,7 @@ package com.zxc.view;
 
 import com.zxc.dao.IAccountDao;
 import com.zxc.service.IAccountService;
+import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
@@ -14,8 +15,8 @@ public class Client {
      */
     public static void main(String[] args) {
         //1.获取核心容器对象
-//        ApplicationContext ac = new ClassPathXmlApplicationContext("Bean.xml");
-        ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("Bean.xml");
+        ApplicationContext ac = new ClassPathXmlApplicationContext("Bean.xml");
+        //ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("Bean.xml");
         //2.根据id获取Bean对象
         IAccountService as  = (IAccountService)ac.getBean("accountService");
 //        IAccountService as2  = (IAccountService)ac.getBean("accountService");
@@ -25,9 +26,15 @@ public class Client {
 //        System.out.println(as == as2);
         as.saveAccount();
         IAccountDao ad  = (IAccountDao)ac.getBean("accountDao");
+
         System.out.println(as);
         System.out.println(ad);
-        ac.close();
-        //主分支测试
+
+        String[] strs = {"aaa","bbb","ccc"};
+        for (String str : strs) {
+            System.out.println("str = " + str);
+        }
+
     }
+
 }
