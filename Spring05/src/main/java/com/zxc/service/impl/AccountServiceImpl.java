@@ -3,14 +3,18 @@ package com.zxc.service.impl;
 import com.zxc.dao.IAccountDao;
 import com.zxc.service.IAccountService;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.ImportResource;
+import org.springframework.jmx.export.annotation.ManagedResource;
 import org.springframework.stereotype.Service;
+
+import javax.annotation.Resource;
 
 
 /**
  * 账户的业务层实现类
  *
  * 曾经XML的配置：
- *  <bean id="accountService" class="com.itheima.service.impl.AccountServiceImpl"
+ *  <bean id="accountService" class="com.zxc.service.impl.AccountServiceImpl"
  *        scope=""  init-method="" destroy-method="">
  *      <property name=""  value="" | ref=""></property>
  *  </bean>
@@ -72,8 +76,10 @@ import org.springframework.stereotype.Service;
 @Service("accountService")
 public class AccountServiceImpl implements IAccountService {
 
-    @Autowired
-    private IAccountDao accountDao = null;
+    @Resource(name = "accountDao2")
+    private IAccountDao accountDao;
+
+
 
     public void  init(){
         System.out.println("初始化方法执行了");

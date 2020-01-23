@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31295e52-e619-4ff8-9494-c67360840db5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Spring03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring03/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring03/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring03/src/main/java/com/zxc/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring03/src/main/java/com/zxc/view/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring03/src/main/resources/Bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring03/src/main/resources/Bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring04/.idea/Spring04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring04/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring04/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +26,8 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="D:/SDK/Maven-3.6.2" />
-        <option name="userSettingsFile" value="D:\SDK\Maven-3.6.2\conf\settings.xml" />
+        <option name="mavenHome" value="D:/SDK/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\SDK\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -48,7 +48,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -105,6 +105,7 @@
       <workItem from="1579445383321" duration="14000" />
       <workItem from="1579445609158" duration="716000" />
       <workItem from="1579497038218" duration="18000" />
+      <workItem from="1579702841127" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="//Spring02同步测试">
       <created>1579400513344</created>
@@ -201,6 +202,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="781" y="80" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579445710314" />
+    <state x="719" y="208" key="FileChooserDialogImpl" timestamp="1579702872072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="208" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579702872072" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579445038625">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -217,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579445038625" />
-    <state x="440" y="95" key="SettingsEditor" timestamp="1579403402781">
+    <state x="440" y="95" key="SettingsEditor" timestamp="1579702874422">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579403402781" />
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579702874422" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1579445728343">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

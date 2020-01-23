@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - jdbc:mysql://localhost:3306/spring?serverTimezone=GMT%2B8 &amp;characterEncoding=utf-8&amp;userSSL=yes" uuid="4912ad3c-3298-4b0f-bdb5-198eec9470de">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/spring?serverTimezone=GMT&amp;characterEncoding=utf-8&amp;userSSL=yes</jdbc-url>
+    </data-source>
+  </component>
+</project>
