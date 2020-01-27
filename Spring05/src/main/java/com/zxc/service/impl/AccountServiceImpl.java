@@ -4,6 +4,7 @@ import com.zxc.dao.IAccountDao;
 import com.zxc.service.IAccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.ImportResource;
+import org.springframework.context.annotation.Scope;
 import org.springframework.jmx.export.annotation.ManagedResource;
 import org.springframework.stereotype.Service;
 
@@ -74,6 +75,7 @@ import javax.annotation.Resource;
  *          作用：用于指定初始化方法
  */
 @Service("accountService")
+@Scope("protoType")
 public class AccountServiceImpl implements IAccountService {
 
     @Resource(name = "accountDao")
@@ -91,6 +93,5 @@ public class AccountServiceImpl implements IAccountService {
 
     public void  saveAccount(){
         accountDao.saveAccount();
-
     }
 }
