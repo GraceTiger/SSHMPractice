@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        https://www.springframework.org/schema/aop/spring-aop.xsd">
+
+    <!-- 配置Accountservice实现类 -->
+    <bean id="accountService" class="com.zxc.service.Impl.AccountServiceImpl"></bean>
+
+    <!--  配置Logger类  -->
+    <bean id="logger" class="com.zxc.utils.Logger"></bean>
+
+    <!--配置Aop切面-->
+    <aop:config>
+        <aop:aspect id="logAdvice" ref="logger">
+            <!---->
+            <aop:before method="printLog" pointcut="execution(public void com.zxc.service.Impl.AccountServiceImpl())"></aop:before>
+        </aop:aspect>
+    </aop:config>
+</beans>
+
