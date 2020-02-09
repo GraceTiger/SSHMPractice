@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31295e52-e619-4ff8-9494-c67360840db5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Spring05/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring05/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/view/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/src/main/java/com/zxc/view/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/service/impl/AccountServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/view/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring05/target/classes/com/zxc/view/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/main/java/com/zxc/config/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/main/java/com/zxc/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/java/com/zxc/model/HelloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/resources/SpringMVCConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/java/com/zxc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/java/com/zxc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/classes/com/zxc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/classes/com/zxc/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/classes/com/zxc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/classes/com/zxc/controller/HelloController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +131,7 @@
       <workItem from="1579497038218" duration="18000" />
       <workItem from="1579702841127" duration="103000" />
       <workItem from="1579757745123" duration="6000" />
+      <workItem from="1581221604631" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="//Spring02同步测试">
       <created>1579400513344</created>

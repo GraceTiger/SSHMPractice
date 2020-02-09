@@ -5,6 +5,6 @@
 </head>
 <body>
     <h3>入门程序</h3>
-    <a href="hello">跳转</a>
+    <a href="hello?name=zxc">跳转</a>
 </body>
 </html>

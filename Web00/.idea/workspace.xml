@@ -7,11 +7,45 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4eaafef2-5089-43ec-938d-0704338a271e" name="Default Changelist" comment="" />
+    <list default="true" id="4eaafef2-5089-43ec-938d-0704338a271e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/main/java/com/zxc/config/MainConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/main/java/com/zxc/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/test/java/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/java/com/zxc/model/HelloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/resources/SpringMVCConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring07/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring07/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/java/com/zxc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/java/com/zxc/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/classes/com/zxc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/classes/com/zxc/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/pages/success.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/classes/com/zxc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/classes/com/zxc/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -38,6 +72,7 @@
     <option name="jreName" value="11" />
   </component>
   <component name="ProjectId" id="1WHSIwkRO9gRo11q29FkbqYwQvg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -357,6 +392,7 @@
       <workItem from="1579009974350" duration="940000" />
       <workItem from="1579053955596" duration="26000" />
       <workItem from="1579134958118" duration="10000" />
+      <workItem from="1581221633282" duration="36000" />
     </task>
     <servers />
   </component>
