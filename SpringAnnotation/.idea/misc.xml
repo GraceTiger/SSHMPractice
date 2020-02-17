@@ -10,10 +10,13 @@
         <option value="$PROJECT_DIR$/../SpringAnnotation_01/pom.xml" />
         <option value="$PROJECT_DIR$/../SpringAnnotation_02/pom.xml" />
         <option value="$PROJECT_DIR$/../SpringMVC整合/pom.xml" />
+        <option value="$PROJECT_DIR$/../Spring整合MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/../MybatisWithXML/pom.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="jetbrains.communicator.idea.IdProvider" IDEtalkID="E4D4EFBCA2A606A2446C347F5F30400E" />
 </project>

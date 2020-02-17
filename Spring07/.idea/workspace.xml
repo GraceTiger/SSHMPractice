@@ -2,52 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82792f8d-fcc6-44b8-a83c-939f8e181813" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/main/java/com/zxc/config/MainConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/main/java/com/zxc/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_01/src/test/java/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringAnnotation_02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/java/com/zxc/model/HelloTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/resources/SpringMVCConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC_02/src/main/webapp/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/MyWebAppInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/AppConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/JdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/RootConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/controller/AccountController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/controller/MyInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/dao/IAccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/model/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/service/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/resources/Jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/webapp/WEB-INF/pages/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Demo/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Spring02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/SpringBoot_01_HelloWorld/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/SpringBoot_01_HelloWorld/src/main/java/com/zxc/HelloWorldMainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/SpringBoot_01_HelloWorld/src/main/java/com/zxc/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/main/java/com/zxc/config/JdbcConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/main/java/com/zxc/config/RootConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/main/java/com/zxc/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/main/java/com/zxc/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/main/java/com/zxc/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/main/java/com/zxc/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/main/resources/Jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring整合MyBatis/src/test/java/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Demo/src/test/java/com/zxc/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Demo/src/test/java/com/zxc/test/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/java/com/zxc/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/java/com/zxc/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/WEB-INF/pages/success.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/classes/com/zxc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/classes/com/zxc/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/pages/success.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/WEB-INF/pages/success.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/SpringMVC_Day01/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/target/classes/com/zxc/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/target/classes/com/zxc/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Web00/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Web00/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring08/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring08/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Spring08/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring08/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringAnnotation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringAnnotation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringAnnotation/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringAnnotation/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringAnnotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringAnnotation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC_Day01/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC_Day01/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/JdbcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/JdbcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/RootConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/java/com/zxc/config/RootConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpringMVC整合/src/main/resources/Jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../SpringMVC整合/src/main/resources/Jdbc.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +119,9 @@
       <workItem from="1580126600076" duration="1447000" />
       <workItem from="1580793985341" duration="10000" />
       <workItem from="1581237545499" duration="16000" />
+      <workItem from="1581347039828" duration="94000" />
+      <workItem from="1581348337502" duration="107000" />
+      <workItem from="1581391667260" duration="40000" />
     </task>
     <servers />
   </component>
