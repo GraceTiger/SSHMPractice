@@ -9,8 +9,8 @@
         <module name="SpringMVC整合" />
         <module name="Spring整合MyBatis" />
         <module name="SpringAnnotation_01" />
-        <module name="MybatisWithXML" />
         <module name="SpringAnnotation_02" />
+        <module name="MybatisWithXML" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />

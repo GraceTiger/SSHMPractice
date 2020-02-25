@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
+import org.springframework.ejb.access.LocalStatelessSessionProxyFactoryBean;
 import org.springframework.jdbc.datasource.DataSourceTransactionManager;
 
 import javax.sql.DataSource;
@@ -47,6 +48,7 @@ public class JdbcConfig {
 
     @Bean("sessionFactory")
     public SqlSessionFactory createSessionFactory() throws Exception {
+
         SqlSessionFactoryBean sessionFactory = new SqlSessionFactoryBean();
         sessionFactory.setDataSource(createDataSource());
         return sessionFactory.getObject();
