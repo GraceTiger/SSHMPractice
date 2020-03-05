@@ -32,6 +32,6 @@
         <!-- 引入ORM 映射文件        填写src之后的路径         
         <mapping resource="com/city/oa/model/xml/DepartmentModel.hbm.xml"/>
         -->
-        <mapping class="com.zxc.model.Department" />
+        <mapping package="com.zxc.model" />
     </session-factory>
 </hibernate-configuration>
