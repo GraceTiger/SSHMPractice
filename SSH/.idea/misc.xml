@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/HibernateDemo" />
     <file type="web" url="file://$PROJECT_DIR$/HibernateMap" />
+    <file type="web" url="file://$PROJECT_DIR$/HibernateOneToMany" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />

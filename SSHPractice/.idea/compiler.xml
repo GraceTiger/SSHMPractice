@@ -14,8 +14,5 @@
         <module name="Hibernate01_Common" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Hibernate01_Integration" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
