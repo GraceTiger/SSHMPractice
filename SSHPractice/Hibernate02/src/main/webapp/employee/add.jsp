@@ -11,7 +11,7 @@
       员工性别：<input type="text" name="sex"/><br/>
       员工生日：<input type="text" name="birthday"/><br/>
       员工工资：<input type="text" name="salary"/><br/>
-      <input type="submit" value="增加"/>
+      <input type="submit" value="增加"/>sysysysy
   </form>
 </body>
 </html>
