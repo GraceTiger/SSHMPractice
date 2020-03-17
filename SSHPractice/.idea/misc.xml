@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/Hibernate01" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate01_Common" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate01_Integration" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate02" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate02_Common" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate03_Common" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

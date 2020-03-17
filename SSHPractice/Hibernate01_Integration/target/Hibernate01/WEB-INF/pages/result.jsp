@@ -1,0 +1,54 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<html>
+<head>
+    <title>客户列表</title>
+</head>
+<body>
+<table>
+    <thead>
+    <tr>
+        <th>客户序号</th>
+        <th>客户编码</th>
+        <th>客户名称</th>
+        <th>客户人数</th>
+        <th>客户日期</th>
+        <th>年销售额</th>
+        <th>注册地址</th>
+        <th>公司电话</th>
+    </tr>
+    </thead>
+    <tbody>
+    <!-- row -->
+    <c:forEach var="customer" items="${customerList}">
+        <tr>
+            <td>
+                    ${customer.no}
+            </td>
+            <td>
+                    ${customer.code}
+            </td>
+            <td>
+                    ${customer.name}
+            </td>
+            <td>
+                    ${customer.staffNum}
+            </td>
+            <td>
+                    ${customer.createDate}
+            </td>
+            <td>
+                    ${customer.yearSales}
+            </td>
+            <td>
+                    ${customer.address}
+            </td>
+            <td>
+                    ${customer.tel}
+            </td>
+        </tr>
+    </c:forEach>
+    </tbody>
+</table>
+</body>
+</html>

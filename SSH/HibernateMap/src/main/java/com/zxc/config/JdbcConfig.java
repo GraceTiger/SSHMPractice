@@ -10,7 +10,6 @@ import org.springframework.jdbc.datasource.DriverManagerDataSource;
 import org.springframework.orm.hibernate5.HibernateTemplate;
 import org.springframework.orm.hibernate5.HibernateTransactionManager;
 import org.springframework.orm.hibernate5.LocalSessionFactoryBean;
-
 import javax.sql.DataSource;
 
 @Configuration
@@ -37,7 +36,6 @@ public class JdbcConfig {
         dataSource.setPassword(password);
         dataSource.setUrl(jdbcUrl);
         return dataSource;
-
     }
 
     //注册事务管理器
@@ -52,6 +50,7 @@ public class JdbcConfig {
         sessionFactory.setDataSource(dataSource);
         sessionFactory.setPackagesToScan("com.zxc.model");
         return sessionFactory;
+
     }
 
     @Bean("hibernateTemplate")

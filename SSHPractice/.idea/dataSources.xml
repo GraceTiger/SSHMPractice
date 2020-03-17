@@ -7,5 +7,17 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/citymis?serverTimezone=UTC</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="cityoaapp@localhost" uuid="94a3e008-c298-46fe-95fe-e846de8c8106">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/cityoaapp?serverTimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cityinfo@localhost" uuid="c1e80b0e-6eef-45ae-b180-9a4ba3f5d564">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/cityinfo?serverTimezone=UTC</jdbc-url>
+    </data-source>
   </component>
 </project>

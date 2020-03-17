@@ -12,20 +12,20 @@ import java.util.Date;
 @Table(name = "OA_Employee")
 public class Employee implements Serializable {
     @Id
-    @Column("EMPID")
+    @Column(name = "EMPID")
     private String id;
-    @Column("EMPPASSWORD")
+    @Column(name = "EMPPASSWORD")
     private String password;
-    @Column("EMPNAME")
+    @Column(name = "EMPNAME")
     private String name;
-    @Column("EMPSEX")
+    @Column(name = "EMPSEX")
     private String sex;
     private Integer age;
     private Double salary;
     private Date birthday;
     private Date joinDate;
     @Lob
-    @Fetch()
+    @Fetch(value = FetchMode.SELECT)
     private byte[] photo;
     private String photoFileName;
     private String photoContentType;
