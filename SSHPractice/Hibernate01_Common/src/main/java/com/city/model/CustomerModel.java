@@ -19,7 +19,7 @@ public class CustomerModel implements Serializable {
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
 	@Column(name="CNO")
-	private int no=0;
+	private int no;
 	@Column(name="CCODE")
 	private String code=null;
 	@Column(name="CNAME")

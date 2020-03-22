@@ -11,6 +11,7 @@
         <th>员工编号</th>
         <th>员工姓名</th>
         <th>员工性别</th>
+        <th>员工年龄</th>
         <th>员工生日</th>
         <th>员工工资</th>
     </tr>
@@ -27,6 +28,9 @@
             </td>
             <td>
                     ${employee.sex}
+            </td>
+            <td>
+                    ${employee.age}
             </td>
             <td>
                     ${employee.birthday}

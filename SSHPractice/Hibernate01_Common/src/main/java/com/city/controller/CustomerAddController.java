@@ -19,7 +19,7 @@ import com.city.service.impl.CustomerServiceImpl;
 /**
  * 部门增加后处理控制器
  */
-@WebServlet("/customer/procecss.do")
+@WebServlet("/customer/process.do")
 public class CustomerAddController extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
@@ -38,13 +38,12 @@ public class CustomerAddController extends HttpServlet {
 		String action=request.getParameter("action");
 		String code=request.getParameter("code");
 		String name=request.getParameter("name");
-		int num=Integer.valueOf(request.getParameter("num"));
+		int num=Integer.parseInt(request.getParameter("num"));
 		DateFormat format1 = new SimpleDateFormat("yyyy-MM-dd");
 		Date date=null;
 		try {
 			date = format1.parse(request.getParameter("date"));
 		} catch (ParseException e1) {
-			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
 		Double yearsales=Double.valueOf(request.getParameter("yearsales"));

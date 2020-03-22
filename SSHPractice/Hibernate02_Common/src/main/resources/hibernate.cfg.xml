@@ -31,16 +31,10 @@
              validate(很少):不会自动创建表结构.也不会自动维护表结构.Hibernate只校验表结构. 如果表结构不一致将会抛出异常.
         <property name="hbm2ddl.auto">update</property>
         -->
-        
-        <!-- show_sql: 操作数据库时,会 向控制台打印sql语句 -->
-        <property name="hibernate.show_sql">true</property>
-        <!-- format_sql: 打印sql语句前,会将sql语句先格式化  -->
-        <property name="hibernate.format_sql">true</property>
-        <!-- 数据库方言配置 -->
-        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+
         <!-- 引入ORM 映射文件        填写src之后的路径         
         <mapping class="com.city.oa.model.DepartmentModel" />
         -->
-        <mapping resource="com/city/model/EmployeeModel.hbm.xml"/>
+        <mapping class="com.city.model.EmployeeModel"/>
     </session-factory>
 </hibernate-configuration>

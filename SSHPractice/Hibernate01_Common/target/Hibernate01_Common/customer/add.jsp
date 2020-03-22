@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>客户增加</h1>
-<form action="procecss.do" method="post"">
+<form action="customer/process.do" method="post">
 客户序号:<input type="text" name="no"/><br/>
 客户编码:<input type="text" name="code"/><br/>
 客户名称:<input type="text" name="name"/><br/>

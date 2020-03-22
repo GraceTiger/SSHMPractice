@@ -8,6 +8,7 @@ import java.util.Objects;
 @Entity
 @Table(name = "customer", schema = "citymis")
 public class Customer implements Serializable {
+
     private Integer no;
     private String code;
     private String name;

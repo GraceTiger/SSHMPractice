@@ -9,6 +9,7 @@
       员工编号：<input type="text" name="id"/><br/>
       员工姓名：<input type="text" name="name"/><br/>
       员工性别：<input type="text" name="sex"/><br/>
+      员工年龄：<input type="text" name="age"/><br/>
       员工生日：<input type="text" name="birthday"/><br/>
       员工工资：<input type="text" name="salary"/><br/>
       <input type="submit" value="增加"/>

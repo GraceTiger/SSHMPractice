@@ -12,6 +12,7 @@
 员工ID:<input type="text" name="id"/><br/>
 员工姓名:<input type="text" name="name"/><br/>
 性别:<input type="text" name="sex"/><br/>
+年龄:<input type="text" name="age"/><br/>
 生日:<input type="text" name="birthday"/><br/>
 工资:<input type="text" name="salary"/><br/>
 <input type="submit" value="提交"/><br/>

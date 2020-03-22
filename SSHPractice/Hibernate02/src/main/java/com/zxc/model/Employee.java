@@ -10,22 +10,17 @@ import java.util.Date;
 @Entity
 @Table(name = "employee")
 public class Employee implements Serializable {
-
     @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "ID")
     private Integer id;
-
     @Column(name = "NAME")
     private String name;
-
     @Column(name = "SEX")
     private String sex;
-
+    @Column(name = "AGE")
+    private Integer age;
     @Column(name = "BIRTHDAY")
     private Date birthday;
-
     @Column(name = "SALARY")
     private BigDecimal salary;
-
 }

@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Hibernate01</module>
+        <module>Hibernate01_Integration</module>
         <module>Hibernate02</module>
         <module>Hibernate01_Common</module>
         <module>Hibernate02_Common</module>
