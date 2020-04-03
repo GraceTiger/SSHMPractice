@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>HibernateOneToMany</module>
+        <module>Aop</module>
     </modules>
 
 

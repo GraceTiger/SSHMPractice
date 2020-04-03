@@ -12,10 +12,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.city.model.EmployeeModel;
-import com.city.service.IEmployeeService;
-import com.city.service.impl.EmployeeServiceImpl;
-
 /**
  * 部门增加后处理控制器
  */

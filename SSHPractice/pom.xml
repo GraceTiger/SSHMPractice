@@ -14,6 +14,10 @@
         <module>Hibernate01_Common</module>
         <module>Hibernate02_Common</module>
         <module>Hibernate03_Common</module>
+        <module>Hibernate03_Integration</module>
+        <module>Hibernate04_common</module>
+        <module>Hibernate04_Integration</module>
+        <module>Hibernate05_Integration</module>
     </modules>
 
 

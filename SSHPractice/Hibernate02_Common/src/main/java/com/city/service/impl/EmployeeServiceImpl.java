@@ -1,8 +1,6 @@
 package com.city.service.impl;
 
 import com.city.factory.HibernateFactory;
-import com.city.model.EmployeeModel;
-import com.city.service.IEmployeeService;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;

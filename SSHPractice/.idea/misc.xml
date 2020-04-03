@@ -7,6 +7,10 @@
     <file type="web" url="file://$PROJECT_DIR$/Hibernate02" />
     <file type="web" url="file://$PROJECT_DIR$/Hibernate02_Common" />
     <file type="web" url="file://$PROJECT_DIR$/Hibernate03_Common" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate03_Integration" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate04_common" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate04_Integration" />
+    <file type="web" url="file://$PROJECT_DIR$/Hibernate05_Integration" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

@@ -2,7 +2,10 @@ package com.zxc;
 
 import com.zxc.config.AppConfig;
 import com.zxc.config.RootConfig;
+import org.springframework.web.filter.CharacterEncodingFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+
+import javax.servlet.Filter;
 
 public class AppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
 
@@ -23,4 +26,13 @@ public class AppInitializer extends AbstractAnnotationConfigDispatcherServletIni
         return new String[]{"/"};
     }
 
+    //配置监听器
+    @Override
+    protected Filter[] getServletFilters() {
+        //字符编码监听器
+        CharacterEncodingFilter characterEncodingFilter = new CharacterEncodingFilter();
+        characterEncodingFilter.setEncoding("UTF-8");
+        characterEncodingFilter.setForceEncoding(true);
+        return new Filter[] { characterEncodingFilter };
+    }
 }

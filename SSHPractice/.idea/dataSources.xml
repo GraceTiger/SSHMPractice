@@ -13,11 +13,17 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/cityoaapp?serverTimezone=UTC</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="cityinfo@localhost" uuid="c1e80b0e-6eef-45ae-b180-9a4ba3f5d564">
+    <data-source source="LOCAL" name="saperp@localhost" uuid="c1e80b0e-6eef-45ae-b180-9a4ba3f5d564">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/cityinfo?serverTimezone=UTC</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/saperp?serverTimezone=UTC</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cityerp@localhost" uuid="89b5b181-1db6-4c70-8d4e-1b8c4daa0420">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/cityerp?serverTimezone=UTC</jdbc-url>
     </data-source>
   </component>
 </project>

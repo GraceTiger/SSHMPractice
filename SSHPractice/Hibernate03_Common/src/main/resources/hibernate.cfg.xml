@@ -13,7 +13,7 @@
         <property name="hibernate.connection.username">root</property>
         <!-- hibernate.connection.password : 连接数据库的密码 -->
         <property name="hibernate.connection.password"></property>
-        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/cityinfo?serverTimezone=UTC</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/saperp?serverTimezone=UTC</property>
         <!-- c3p0连接池 -->
         <property name="hibernate.c3p0.max_size">10</property>
         <property name="hibernate.c3p0.min_size">2</property>
@@ -38,6 +38,6 @@
         <property name="hibernate.format_sql">true</property>
         <!-- 数据库方言配置 -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
-        <mapping class="com.city.model.EmployeeModel"/>
+        <mapping class="com.ProductModel"/>
     </session-factory>
 </hibernate-configuration>
