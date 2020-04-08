@@ -15,7 +15,7 @@ public class Area {
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     @Column(name = "ANO")
     private Integer no;
-    @Basic
+
     @Column(name = "ANAME")
     private String name;
     //多对多映射

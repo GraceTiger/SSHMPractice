@@ -24,10 +24,10 @@ public class Packaging {
     @GeneratedValue(generator = "PNO_PK_GEN")
     @Column(name = "PNO")
     private Integer no;
-    @Basic
+
     @Column(name = "PTYPE")
     private String type;
-    @Basic
+
     @Column(name = "PSIZE")
     private Integer size;
 

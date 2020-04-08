@@ -18,6 +18,7 @@
         <module>Hibernate04_common</module>
         <module>Hibernate04_Integration</module>
         <module>Hibernate05_Integration</module>
+        <module>Hibernate06_Integration</module>
     </modules>
 
 

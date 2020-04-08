@@ -15,18 +15,18 @@ public class Product {
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     @Column(name = "PNO")
     private Integer no;
-    @Basic
+
     @Column(name = "PNAME")
     private String name;
-    @Basic
+
     @Column(name = "PDATE")
     //日期类型转换
     @DateTimeFormat(pattern="yyyy-MM-dd")
     private Date date;
-    @Basic
+
     @Column(name = "UNITPRICE")
     private Integer unitPrice;
-    @Basic
+
     @Column(name = "QTY")
     private Integer qty;
 
